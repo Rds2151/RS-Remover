@@ -1,6 +1,8 @@
 
 # RS Remover
 
+Note: This is a GUI-based application and is different from the previously uploaded command-line duplicate remover.
+
 RS Remover is a GUI-based application for removing duplicate files from your computer.
 
 ## System Requirements
