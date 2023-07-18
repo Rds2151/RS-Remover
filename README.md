@@ -17,8 +17,9 @@ RS Remover is a GUI-based application for removing duplicate files from your com
 
 1. Download RS Remover from GitHub.
 2. Install Makefile, if not already installed on your system.
-3. Run `make build` to install RS Remover.
-4. Run `make` to launch RS Remover.
+3. To install RS Remover, run `make build`.
+4. To launch RS Remover, run `make`.
+5. To delete the build files, run `make clean`.
 
 ## Scanning for Duplicate Files
 
