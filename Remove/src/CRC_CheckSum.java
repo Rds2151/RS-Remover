@@ -61,6 +61,7 @@ public class CRC_CheckSum extends SwingWorker<Void, Void>
             CRC_CheckSum.iProgress = 0;
             ScanPanel.stopBtn.setText("Done");
             CkSumStore.Flag = true;
+	    CkSumStore.DeleteEmptyFolder(new File(filePath));
         }
         return null;
     }
